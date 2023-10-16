@@ -11,7 +11,7 @@ An iOS Chat app built using swift and MVC architecture that you can use to regis
 
 
 ## Demo
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlOXZuaXIyZXJoenVhZHYzOGplZG5tcDh0a3lvNTd3dmplbnRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i9MRhgPORvMWkO9y9D/giphy.gif" width="400" height="500" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdlOXZuaXIyZXJoenVhZHYzOGplZG5tcDh0a3lvNTd3dmplbnRudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i9MRhgPORvMWkO9y9D/giphy.gif" width="500" height="500" />
 
 ## Features
 
